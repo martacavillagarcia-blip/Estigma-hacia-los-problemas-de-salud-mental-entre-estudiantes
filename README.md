@@ -26,3 +26,4 @@ Este proyecto aborda la invisibilización y el autoestigma en torno a los proble
 ## Autoría
 [Marta Cavilla García] — curso 2026/2027
 el profesor se va a tirar por el balcón
+el profesor rebotó al llegar al suelo
